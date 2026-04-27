@@ -84,7 +84,8 @@ An **end-to-end NLP intelligence system** that:
 ### 🟣 Power BI Executive Dashboard
 > *7 live KPI visuals — 393K reviews analysed, 77.94% positive sentiment, 4.18 avg rating*
 
-![Power BI Dashboard](assets/screenshots/powerbi_dashboard.png)
+![Power BI Dashboard](<img width="1414" height="787" alt="Screenshot 2026-04-24 152756" src="https://github.com/user-attachments/assets/348b35b0-13a2-4146-829a-5055267096f9" />
+)
 
 <div align="center">
 
@@ -97,7 +98,8 @@ An **end-to-end NLP intelligence system** that:
 ### 🔴 Streamlit Live Prediction App
 > *Type any review → Instant predictions from CNN, RNN, and SVM simultaneously*
 
-![Streamlit App](assets/screenshots/streamlit_app.png)
+![Streamlit App](<img width="940" height="1339" alt="Streamlit_app" src="https://github.com/user-attachments/assets/5121625b-0e6f-445e-999b-9f0d971cfe54" />
+)
 
 <div align="center">
 
